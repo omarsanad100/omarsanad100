@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omar Sanad
-- 👀 I’m interested in Digital Marketing and Mobile Applications
+- 👀 I’m interested in Digital Marketing and Web Development
 - 🌱 I’m currently learning Digital Marketing
 
 <!---
