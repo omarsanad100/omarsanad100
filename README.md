@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Sanad
-- 👀 I’m interested in Digital Marketing and Web Development
-- 🌱 I’m currently learning Digital Marketing
+- 👀 I’m interested in Search Engine Optimization
+- 🌱 I’m currently learning SEO
 
 <!---
 omarsanad100/omarsanad100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
