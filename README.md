@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Sanad
-- 👀 I’m interested in Search Engine Optimization
-- 🌱 I’m currently learning SEO
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning CSS and JavaScript and React js.
 
 <!---
 omarsanad100/omarsanad100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
